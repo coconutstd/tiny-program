@@ -1,11 +1,11 @@
-#pengsu {
-    animation: rotate_image 6s linear infinite; /* 회전 속도 */
-    transform-origin: 50% 50%; /* 회전시키는 중심 */
-    width: 100px; /* 크기조절 */
+/* #pengsu {
+    animation: rotate_image 6s linear infinite;
+    transform-origin: 50% 50%;
+    width: 100px;
 }
 
 @keyframes rotate_image{
     100% {
         transform: rotate(360deg);
     }
-}
+} */
